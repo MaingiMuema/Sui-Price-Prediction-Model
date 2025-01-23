@@ -1,0 +1,8 @@
+{
+  "timeframe": "1h",
+  "lookback_days": 30,
+  "update_interval": 300,
+  "signal_threshold": 0.7,
+  "risk_reward_ratio": 2.0,
+  "notifications": true
+}
